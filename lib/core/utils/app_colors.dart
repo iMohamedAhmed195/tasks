@@ -12,7 +12,7 @@ class AppColors {
 
   static const tapBarItemColor = Color(0xFFFFFFFF);
 
-  static const tapBarItemShadowColor =  Color(0x0F000008);
+  static const tapBarItemShadowColor = Color(0x0F000008);
 
   static const bottomNavBarColor = Color(0xFFFFFFFF);
 
@@ -28,7 +28,6 @@ class AppColors {
   static const tapBarBorderColor = Color(0xFFF2F2F2);
 
   static const progressIndicatorColor = Color(0xFFD61116);
-
 
   ///TEXT COLORS
   static const cardButtonHintTextColor = Color(0xFFFFFFFF);
